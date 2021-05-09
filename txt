@@ -1,2 +1,0 @@
-<button class="ghost" id="signUp" onclick="window.location.href='/page2.html">Sign Up</button>
-onclick="window.location.href='index.html'"
